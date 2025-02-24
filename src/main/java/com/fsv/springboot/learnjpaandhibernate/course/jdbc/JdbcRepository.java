@@ -1,6 +1,6 @@
-package com.fsv.rest.webservices.restfulwebservices.course.jdbc;
+package com.fsv.springboot.learnjpaandhibernate.course.jdbc;
 
-import com.fsv.rest.webservices.restfulwebservices.course.Course;
+import com.fsv.springboot.learnjpaandhibernate.course.Course;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

@@ -1,6 +1,6 @@
-package com.fsv.rest.webservices.restfulwebservices.course.jpa;
+package com.fsv.springboot.learnjpaandhibernate.course.jpa;
 
-import com.fsv.rest.webservices.restfulwebservices.course.Course;
+import com.fsv.springboot.learnjpaandhibernate.course.Course;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import jakarta.transaction.Transactional;

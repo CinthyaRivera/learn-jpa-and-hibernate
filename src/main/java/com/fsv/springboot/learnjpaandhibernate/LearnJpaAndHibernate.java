@@ -1,12 +1,12 @@
-package com.fsv.rest.webservices.restfulwebservices;
+package com.fsv.springboot.learnjpaandhibernate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class RestfulWebServicesApplication {
+public class LearnJpaAndHibernate {
     public static void main(String[] args) {
-        SpringApplication.run(RestfulWebServicesApplication.class, args);
+        SpringApplication.run(LearnJpaAndHibernate.class, args);
     }
 }

@@ -1,9 +1,8 @@
-package com.fsv.rest.webservices.restfulwebservices.course;
+package com.fsv.springboot.learnjpaandhibernate.course;
 
-import com.fsv.rest.webservices.restfulwebservices.course.jpa.springdata.SpringDataJpaRepository;
+import com.fsv.springboot.learnjpaandhibernate.course.jpa.springdata.SpringDataJpaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
 
 @Component
 public class CommandLineRunner implements org.springframework.boot.CommandLineRunner {

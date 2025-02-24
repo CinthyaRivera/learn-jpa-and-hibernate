@@ -1,6 +1,6 @@
-package com.fsv.rest.webservices.restfulwebservices.course.jpa.springdata;
+package com.fsv.springboot.learnjpaandhibernate.course.jpa.springdata;
 
-import com.fsv.rest.webservices.restfulwebservices.course.Course;
+import com.fsv.springboot.learnjpaandhibernate.course.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.fsv.rest.webservices.restfulwebservices.course;
+package com.fsv.springboot.learnjpaandhibernate.course;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
